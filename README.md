@@ -1,1 +1,1 @@
-# polecajka_film-w
+# polecajka_film-w - Celem niniejszego projektu było stworzenie interaktywnego systemu rekomendacji filmów, który umożliwia użytkownikowi wyszukiwanie i otrzymywanie propozycji filmowych na podstawie różnych kryteriów, takich jak historia wyszukiwań, podobieństwo do podanego tytułu, minimalna ocena czy preferowany gatunek. Projekt został zrealizowany w języku Python z wykorzystaniem bibliotek takich jak pandas, scikit-learn, rapidfuzz oraz numpy.
